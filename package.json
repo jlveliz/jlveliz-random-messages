@@ -1,0 +1,22 @@
+{
+  "name": "jlveliz-random-messages",
+  "version": "1.0.0",
+  "description": "Random Messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Random",
+    "Messages",
+    "Javascript",
+    "Node",
+    "npm"
+  ],
+  "author": "Jorge Veliz <info@webservice.com.ec>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
